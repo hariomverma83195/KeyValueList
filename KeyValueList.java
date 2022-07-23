@@ -4,7 +4,7 @@
 
 /**
  * KeyValueList is a java HashMap or javascript object like class
- * can be used for character as a key and integer as a value.
+ * can be used for characters as keys and integers as values.
  * <p>
  * Dev (Harry) https://github.com/hariomverma83195
  * <p>

@@ -3,7 +3,7 @@
 ## Note: this project is just created to learn Basics of java and not recommended to be used in production.
 
 
-### **KeyValueList is a java HashMap or javascript object like class** can be used for character as a key and integer as a value.
+### **KeyValueList is a java HashMap or javascript object like class** can be used for characters as keys and integers as values.
  <br />
  <br />
  <br />
