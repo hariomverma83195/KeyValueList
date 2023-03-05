@@ -12,23 +12,24 @@
 
 
 
- * The following methods are defined -
- * @add to add a character key and integer value to the list/existing list.
- * @addArray to add whole arrays of both types.
+ #### The following methods are defined -
+ 
+ * @add to add a character key and integer value to the list.
+ * @addArray to add whole arrays of both keys and values.
  * @modify modify existing key and/or value.
- * @remove remove and fill 0 on the index of the given key and value.
+ * @remove remove and fill 0 on the index of the given key and/or value.
  * @printList to print all keys and values to console (returns void).
- * @getValue returns an integer value of the associate key.
- * @getKey returns a character value of the associate value.
- * @findValue a private method to check if a value in the list and return its index.
+ * @getValue returns an associate integer value of the given key.
+ * @getKey returns a associate character value (key) of the given value.
+ * @findValue a private method to check if a value exist in the list and return its index.
  * @findKey another private method to check if a key exists in the list and return its index.
- * @copyArrays another-another private method useful for addArray (check the function documentation).
+ * @copyArrays another-another private method useful for addArray (check the function documentation for more reference).
  * @params
     * @size size of the list.
 
 
-### To start dowload the KeyValueList.java file and copy in your working directory
+### To start, download the KeyValueList.java file and copy it in your working directory
 
-*No need to copy Example.java althoug you can reefer to see the implementation*
+*No need to copy Example.java although you can refer to see the implementation*
 
-<strong>Feel free to modify and use.</strong>
+<strong>Feel free to fork, modify and use.</strong>
